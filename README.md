@@ -1,3 +1,3 @@
 # Magpayo jeinylle
 Web Development
-Live site: https://jeinylleyvonemagpayo-cpu.github.io/jeinylle-magpayo/
+Live site: https://jeinylleyvonemagpayo-cpu.github.io/magpayo_jeinylle/
